@@ -1,0 +1,15 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+    fontSize: 17
+    invisibles: {}
+    lineHeight: 1.2
+  "exception-reporting":
+    userId: "c360d3f8-e641-94ec-755a-4dd7c109c282"
