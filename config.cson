@@ -1,6 +1,7 @@
 "*":
   core:
     autoHideMenuBar: true
+    closeEmptyWindows: false
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
@@ -13,3 +14,7 @@
     lineHeight: 1.2
   "exception-reporting":
     userId: "c360d3f8-e641-94ec-755a-4dd7c109c282"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
